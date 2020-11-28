@@ -1,0 +1,241 @@
+.imglogo{
+    height: 200px;
+    width: auto;
+}
+#headerbox{
+    background-attachment: fixed;
+    background-image: url("images/rasm.jpg");
+    height: 625px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.logo{
+    margin-left: 80px;
+    float: left;
+}
+.navbar{
+    margin-left: 50px;
+    /* float: right;  */
+    /* margin-right: 30px; */
+    /* margin-top: 30px; */
+}
+.nav{
+    margin-top:50px;
+}
+.h1{
+    position: relative;
+    top: 120px;
+    left: -150px;
+    font-size: 60px;
+    color: rgb(217, 255, 0);
+    font-family: sans-serif;
+}
+.buttonss{
+    
+    margin-left: 550px;
+    margin-top: 180px;
+}
+.main{
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+#cardlar{
+    margin-top: 30px;
+}
+.left{
+    float: left;
+    margin-left: 25px;
+}
+.ziyonur{
+    height: 135px;
+    width: auto;
+}
+.thompson{
+    margin-top: 30px;
+    height: 130px;
+    width: 100%;
+    padding: 10px;
+}
+.everest{
+    padding: 5px;
+    height: 160px;
+    width: auto;
+}
+.top{
+    margin-top: 35px;
+}
+.shadov{
+    box-shadow: 1px 2px 5px gray;
+    cursor: pointer;
+}
+.hover:hover{
+    box-shadow: 3px 5px 20px blue;
+}
+.itpark{
+    margin-left: 50px;
+}
+#hamkorlarbox{
+    margin-top: 45px;
+}
+.h11{
+    width: 1250px;
+    text-align: center;
+    color: blue;
+    
+}
+.top2{
+    margin-top: 20px;
+}
+.top3{
+    margin-top: -40px;
+}
+.profiedu{
+    width: auto;
+    height: 200px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.pdpacademy{
+    width: auto;
+    height: 300px;
+    margin-left: 60px;
+}
+.pleft{
+    margin-left: 40px;
+    margin-top: 70px;
+}
+.pleft2{
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.najottalim{
+    width: auto;
+    height: 80px;
+    margin-left: 100px;
+}
+.ba{
+    width: auto;
+    height: 300px;
+}
+#gallery{
+    background-color: red;
+    height: 500px;
+    width: 1200px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.slidertext{
+    color: white;
+    font-weight:bold;
+    font-size: 25px;
+    text-shadow: 2px 2px 5px yellow;
+}
+
+.sliderp{
+font-size: 20px;
+    color: white;
+    text-shadow: 2px 2px 5px yellow;
+}
+#regform{
+    background-color: red;
+    margin-top: -15px;
+    height: 600px;
+    width: 1300px;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+.about{
+    float: left;
+    background-color: white;
+    height: 600px;
+    width: 650px;
+}
+.reg{
+    float: left;
+    background-color:white;
+    height: 600px;
+    width: 650px;
+    padding: 15px;
+   
+}
+.regtext123{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: blue;
+}
+.aboutimg{
+    position: relative;
+    margin-left: 100px;
+    height: 300px;
+    width: auto;
+    margin-top: -30px;
+}
+.abouttext125{
+    font-family: sans-serif;
+    margin-left: 20px;
+    font-size: 25px;
+    text-align: center;
+    color: mediumblue;
+    margin-top: -30px;
+    margin-right: 20px;
+}
+.socialtext{
+    text-align: center;
+    font-size: 20px;
+}
+.footer{
+    
+    height:50px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+.footertext{
+    position: relative;
+    top: 12px;
+}
+.commentimgsize{
+    margin-right: 10px;
+    height: 100px;
+    float: left;
+}
+.upward{
+    
+    position: fixed;
+    top: 550px;
+    left: 1300px;
+    transition: 1s;
+}
+.region{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 1250px;
+    height: 80px;
+    border: 1px solid #ffc107;
+    
+}
+
+.vil{
+    float: left;
+    width: 33.33%;
+    margin-left: 140px;
+    height: 80px;
+    padding: 15px;
+}
+
+.kurs{
+    float: left;
+    width: 33.33%;
+    margin-left: 140px;
+    height: 30px;
+    padding: 15px;
+}
+.tum{
+    margin-top: 15px;
+    position: relative;
+    left: 20px;
+}
